@@ -1,6 +1,25 @@
-.<div align="center">
+[Olá, eu sou o Rompante.txt](https://github.com/user-attachments/files/33201693/Ola.eu.sou.o.Rompante.txt)
+<div align="center">
 
 # Olá, eu sou o **Rompante**
+
+### Tecnologias
+
+[![Python](https://img.shields.io/badge/Python-050505?style=for-the-badge&logo=python&logoColor=3776AB)](https://www.python.org/)
+[![Rust](https://img.shields.io/badge/Rust-050505?style=for-the-badge&logo=rust&logoColor=DEA584)](https://www.rust-lang.org/)
+[![C](https://img.shields.io/badge/C-050505?style=for-the-badge&logo=c&logoColor=A8B9CC)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Docker](https://img.shields.io/badge/Docker-050505?style=for-the-badge&logo=docker&logoColor=2496ED)](https://www.docker.com/)
+[![Linux](https://img.shields.io/badge/Linux-050505?style=for-the-badge&logo=linux&logoColor=FCC624)](https://www.linux.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-050505?style=for-the-badge&logo=mysql&logoColor=4479A1)](https://www.mysql.com/)
+[![Git](https://img.shields.io/badge/Git-050505?style=for-the-badge&logo=git&logoColor=F05032)](https://git-scm.com/)
+
+### Redes e contacto
+
+[![GitHub](https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/Rompante)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/SEU_LINKEDIN/)
+[![Email](https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:SEU_EMAIL@example.com)
+
+> Substitui `SEU_LINKEDIN` e `SEU_EMAIL@example.com` pelos teus dados reais.
 
 ### Developer · Criador · Aprendiz constante
 
@@ -116,6 +135,12 @@ Uso C para compreender melhor os fundamentos da programação, memória, desempe
 
 ---
 
+## Como instalar este README
+
+Consulta o [guia rápido de instalação](GUIA-README.md) para copiar este conteúdo para o teu perfil do GitHub.
+
+---
+
 ## Contacto
 
 <div align="center">
@@ -135,11 +160,3 @@ _Obrigado por visitares o meu perfil._
 **A aprender. A construir. A evoluir.**
 
 </div>
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[README.md](https://github.com/user-attachments/files/33201595/README.md)
-
-
-
