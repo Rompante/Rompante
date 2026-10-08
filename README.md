@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Rompante's GitHubCard](https://githubcard.com/Rompante.svg?d=NOVO_DESIGN_ID )](https://githubcard.com/Rompante/card )
+[![Rompante's GitHubCard](https://githubcard.com/Rompante.svg?d=A1a-GPyVQIA- )](https://githubcard.com/Rompante/card?utm_source=github&utm_medium=readme )
 
 
