@@ -1,11 +1,13 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:071a12,100:00ff41&height=180&section=header&text=ROMPANTE&fontSize=58&fontColor=00ff41&fontAlignY=38&desc=BUILDING%20THE%20FUTURE%20ONE%20COMMIT%20AT%20A%20TIME&descAlignY=62&descSize=13&descColor=c9d1d9" width="100%" alt="Rompante — Building the future" />
+<img src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=0:050505,50:071a12,100:00ff41&height=180&section=header&text=ROMPANTE&fontSize=58&fontColor=00ff41&fontAlignY=38&desc=BUILDING%20THE%20FUTURE%20ONE%20COMMIT%20AT%20A%20TIME&descAlignY=62&descSize=13&descColor=c9d1d9" width="100%" alt="Rompante — Building the future" />
 
 # `SYSTEM://ONLINE`
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=900&color=00FF41&center=true&vCenter=true&width=760&lines=Hello%2C+I%27m+Rompante;Developer+%7C+Problem+Solver+%7C+Builder;Code.+Systems.+Ideas.+Execution." alt="Mensagem de apresentação" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1800&pause=700&color=58A6FF&center=true&vCenter=true&width=520&lines=%5B+SYSTEM+%5D+ONLINE;%5B+STATUS+%5D+BUILDING;%5B+MODE+%5D+FUTURE" alt="Estado do sistema" />
 
 <br />
 
@@ -102,9 +104,19 @@ Os meus projetos e experiências estão disponíveis no GitHub:
 
 <br /><br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rompante&bg_color=050505&color=00ff41&line=00ff41&point=c9d1d9&area=true&hide_border=true&custom_title=CONTRIBUTION%20SIGNAL" alt="Gráfico de contribuições" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/00ff41/Rompante" />
+  <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/40c463/Rompante" />
+  <img src="https://ghchart.rshah.org/40c463/Rompante" alt="Mapa de contribuições de Rompante" />
+</picture>
 
 </div>
+
+---
+
+## `> contribution_matrix --read`
+
+> O mapa abaixo mostra a atividade pública do perfil ao longo do ano.
 
 ---
 
@@ -147,6 +159,6 @@ A aprender. A construir. A evoluir.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:071a12,100:050505&height=100&section=footer" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=0:00ff41,50:071a12,100:050505&height=100&section=footer" width="100%" alt="Footer" />
 
 </div>
