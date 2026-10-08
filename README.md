@@ -1,4 +1,4 @@
-[Olá, eu sou o Rompante (1).txt](https://github.com/user-attachments/files/33202506/Ola.eu.sou.o.Rompante.1.txt)
+
 # Olá, eu sou o Rompante
 
 Developer interessado em criar projetos práticos, aprender novas tecnologias e transformar ideias em código.
